@@ -15,3 +15,7 @@ Currently the tools included in the website are:
 - A Variable Powers Manager (a simple page to allow for the easy tracking of which powers are currently active. Allows for exporting & importing of powers)
 
 Feel free to download and use. Also feel free to suggest additions and report issues. Who knows, I may even fix them!
+
+
+## Final Update
+In the time since I first made this site I have decided to take things further by hosting it on a GitHub Pages site (found here: https://github.com/GameCrazed/gamecrazed.github.io). I'd recommend you use that now although there's nothing wrong with this site and it is still perfectly usable.
